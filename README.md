@@ -1,25 +1,14 @@
-<h1 align="center">🚀 Full Stack Developer • Pleno</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvimento profissional com foco em <strong>Web, APIs, Sistemas Escaláveis, Cloud e Soluções Empresariais</strong>.
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Pleno;Angular+%7C+Next.js+%7C+NestJS+%7C+AWS;Construindo+sistemas+que+escalam." alt="Typing SVG" />
 
----
+  <br/>
 
-## 🧠 **Stack Principal**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-</p>
+  <p>
+    Mais de <strong>5 anos</strong> desenvolvendo soluções completas — do design ao deploy.<br/>
+    Especialista em <strong>Web Apps, APIs REST, integrações financeiras e Cloud</strong>.
+  </p>
 
----
-
-## 🔗 **Redes & Contato**
-<p align="center">
   <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
@@ -32,43 +21,65 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28" />
   </a>
-</p>
 
----
-
-## 🏆 **Achievements**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RStwart&theme=dracula&margin-w=10&margin-h=10" height="150" />
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RStwart&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RStwart&layout=compact&theme=dracula" />
-</p>
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor Full Stack apaixonado por transformar ideias complexas em produtos digitais sólidos e eficientes. Tenho experiência end-to-end: desde interfaces modernas e responsivas até arquiteturas de back-end robustas com alta disponibilidade em cloud.
+
+- 🏗️ Construo sistemas completos — **ERP, e-commerce, dashboards e APIs financeiras**
+- 💳 Integrações com **Mercado Pago, gateways de pagamento e Webhooks**
+- 🧪 Comprometido com **código limpo, testes e boas práticas de engenharia**
+- 🌍 Atuo com times distribuídos e clientes em diferentes setores
 
 ---
 
-## 🛠️ **Tecnologias que uso no dia a dia**
+## 🛠️ Tech Stack
 
-- ⚡ Desenvolvimento full stack com foco em **Angular, Node.js, NestJS e Next.js**
-- 🧩 Integrações complexas (Mercado Pago, APIs REST, Webhooks)
-- 🛢️ MySQL, Postgres e Prisma ORM
-- ☁️ AWS (EC2, S3, CloudFront, RDS)
-- 🛒 E-commerce, ERP, Dashboards, Automação
-- 🎨 UX & UI com Tailwind + Figma
+<div align="center">
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=ts,angular,nextjs,tailwind,figma" height="48" />
+
+**Back-end & Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,postgres,mysql,prisma" height="48" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux" height="48" />
+
+</div>
 
 ---
 
-## ✨ **Sobre mim**
-Sou desenvolvedor há mais de **5 anos**, especializado em criar sistemas completos, modernos e escaláveis — desde front-end profissional até back-end robusto com integrações financeiras, APIs REST, banco de dados estruturado e cloud.
+## 📊 GitHub Stats
 
-Sempre buscando evolução contínua, boas práticas e código limpo.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RStwart&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RStwart&theme=dracula&hide_border=true&area=true" />
+</div>
 
 ---
 
-<p align="center">
-  <strong>🔥 Aberto para novas oportunidades e projetos freelancers!</strong>
-</p>
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RStwart&theme=dracula&margin-w=10&margin-h=10&no-frame=true&row=1" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RStwart&color=00B4FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <br/><br/>
+  <strong>💼 Disponível para projetos freelancers e oportunidades CLT/PJ</strong><br/>
+  <sub>Entre em contato — vamos construir algo incrível juntos.</sub>
+</div>
